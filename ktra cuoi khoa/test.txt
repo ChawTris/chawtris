@@ -1,0 +1,38 @@
+Ý tưởng sát với thực tế, phù hợp nhu cầu người dùng
+Ý tưởng có sự sáng tạo, một hướng mới so với thông thường
+Biết cách kể câu chuyện cho ý tưởng
+Có thanh nav
+Có side bar
+Có main section
+Có footer
+Sử dụng hình ảnh đẹp, sắc nét
+Sử dụng icon từ font awesome
+Sử dụng màu tốt, không bị tương phản đau mắt
+Sử dụng mã màu RGB, Hex code
+Chức năng hoàn thiện >50% so với mức đề ra
+Chức năng hoàn thiện >80% so với mức đề ra
+Có carousel 
+Người dùng có thể nhập vào thông tin
+Người dùng có thể truy xuất thông tin
+Có trang con truy cập từ trang chủ
+Có bản thiết kế web trên nền tảng hỗ trợ
+Có chức năng di chuyển đến vị trí trong trang (nút lên đầu trang, bấm chọn trên thanh nav và chuyển đến vùng tương ứng)
+Có bản phác thảo web trên giấy
+
+Sử dụng JS để hiển thị nội dung HTML
+Mô tả được ý tưởng để thực hiện chức năng
+Lắng nghe các bạn khác khi thuyết trình
+Thái độ tốt, lắng nghe khi BGK góp ý về sản phẩm
+Có bố cục, mục lục bài thuyết trình rõ ràng
+Có chèn hình ảnh của sản phẩm vào slide
+Không lỗi font chữ
+Slide có các hiệu ứng chuyển cảnh đẹp mắt
+Có màn chào hỏi tự tin trước khi bắt đầu
+Nói to rõ ràng
+Có sử dụng body-language
+Không quá phụ thuộc vào slide
+Phân chia công việc đều
+Làm việc, tương tác tốt với nhau trên lớp
+Lên ý tưởng, mục tiêu rõ ràng trong từng buổi làm sản phẩm
+Chủ động tìm hiểu cách xử lý lỗi, không nhờ giảng viên code hộ
+Chủ động code tại nhà, không chỉ lên lớp mới code
